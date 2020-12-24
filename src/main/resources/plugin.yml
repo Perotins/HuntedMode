@@ -1,0 +1,10 @@
+name: HuntedMode
+main: me.perotin.huntedmode.HuntedMode
+author: Perotin
+version: 1.0
+description: A combat-plugin that allows players to pvp exclusively with other players who've opted in to PvP.
+softdepend: [CombatLogX]
+commands:
+   hunted:
+      usage: /hunted
+      description: Base command to enter and exit Hunted mode

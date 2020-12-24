@@ -1,0 +1,12 @@
+add-player: "&c[Hunted] &aYou have now joined the Hunted mode! You can now attack and be attacked by other Hunted players."
+remove-player: "&c[Hunted] You are no longer a Hunted player."
+
+online-hunted: "&aOnline Hunted players: "
+none-online: "&cZero hunted players are on."
+player-is-hunted: "&aThat player is in Hunted mode!"
+player-not-hunted: "&CThat player is not in Hunted mode!"
+invalid-args: "&cInvalid args! /hunted <optional: list, name>"
+cannot-attack-nonhunted: "&cYou may only attack other Hunted players!"
+cannot-attack: "&cTo pvp, you must enter be in Hunted Mode! (/hunted)"
+cannot-leave-hunted: "&cYou must get out of combat before leaving Hunted mode!"
+no-permission: "&c No permission."
